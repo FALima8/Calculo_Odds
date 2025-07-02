@@ -39,9 +39,9 @@ Desenvolver modelos de regressão capazes de prever o valor das odds oferecidas 
 
 ## 🧪 Modelos Treinados
 
-Regressão Linear
-Random Forest
-XGBoost           
+- Regressão Linear
+- Random Forest
+- XGBoost           
 
 ---
 
